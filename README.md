@@ -1,2 +1,2 @@
-# suka_blyat
+# test
 test for git
